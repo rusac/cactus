@@ -28,6 +28,7 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 ### CITES and Eco-stewardship
 
+"[CITES](https://cites.org) (the Convention on International Trade in Endangered Species of Wild Fauna and Flora) is an international agreement between governments. Its aim is to ensure that international trade in specimens of wild animals and plants does not threaten their survival" (https://cites.org). Seeds used in Cactus Club have been obtained from sustainable garden centres, not the wild.
 
 
 
