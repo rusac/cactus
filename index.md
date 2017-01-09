@@ -1,4 +1,4 @@
-## Welcome to Cactus Club (est.2016)
+# Welcome to Cactus Club (est.2016)
 
 The goal of Cactus Club is to cultivate cacti and succulents from seeds and cuttings. The only materials you are asked to bring are small, clean, plastic containers such as those from yogurt or sour cream. These will be used as pots for our seeds and cuttings. All other materials will be provided.
 
@@ -16,7 +16,7 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 
 
-## Other Resources
+# Other Resources
 
 ### Online web info cultivation info
 
