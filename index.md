@@ -9,3 +9,25 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - tba soon, stay tuned
 
 
+
+
+
+
+
+
+
+## Other Resources
+
+### Online web info cultivation info
+
+### Online cactus journals
+
+- [The Cactus Explorers Club Journal](http://www.cactusexplorers.org.uk/journal1.htm)
+- [ The Chileans: The Journal of South American Cacti](http://www.cactusexplorers.org.uk/Chileans_home.htm)
+- [Xerophilia](http://xerophilia.ro/)
+
+### CITES and Eco-stewardship
+
+
+
+
