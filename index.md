@@ -28,5 +28,5 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 "[CITES](https://cites.org) (the Convention on International Trade in Endangered Species of Wild Fauna and Flora) is an international agreement between governments. Its aim is to ensure that international trade in specimens of wild animals and plants does not threaten their survival" (https://cites.org). Seeds used in Cactus Club have been obtained from sustainable garden centres, not the wild.
 
-
+Additional information can be found in [this presentation](http://assets.kew.org/files/CITES%20%26%20Cacti%202012.pdf) from the Royal Botanical Gardens (KEW).
 
