@@ -9,9 +9,9 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - tba soon, stay tuned
 
 
-<CR>
-<CR>
-<CR>
+<BR>
+<BR>
+<BR>
 
 
 # Other Resources
