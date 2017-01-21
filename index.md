@@ -6,7 +6,11 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 ### Seedlist
 
-- tba soon, stay tuned
+- Echinocactus horizonthalonius
+- Espostoa lanata
+- Espostoa churinensis
+- Ferocactus latispinus
+- Ferocactus wislizeni
 
 
 <BR>
