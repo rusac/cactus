@@ -9,6 +9,7 @@ Current seed offerings are listed below. Members are encouraged to research the 
 ###Cacti
 - Astrophytum asterias
 - Astrophytum capricorne
+- Azureocereus hertlingianus
 - Chamaecereus silvestrii Hybr
 - Echinocactus horizonthalonius
 - Epithelantha micromeris (10)
