@@ -4,13 +4,37 @@ The goal of Cactus Club is to cultivate cacti and succulents from seeds and cutt
 
 Current seed offerings are listed below. Members are encouraged to research the names of the cacti to determine which they would like to cultivate. One great source is [Cactus-Art.biz](http://www.cactus-art.biz/gallery/Photo_gallery_abc_cactus.htm) which has excellent information and lots of wonderful pictures.
 
-### Seedlist
+## Seedlist (N.B. Germination rates will vary wildly! Some seeds may not germinate at all.)
 
+###Cacti
+- Astrophytum asterias
+- Astrophytum capricorne
+- Chamaecereus silvestrii Hybr
 - Echinocactus horizonthalonius
-- Espostoa lanata
+- Epithelantha micromeris (10)
 - Espostoa churinensis
+- Espostoa lanata
 - Ferocactus latispinus
 - Ferocactus wislizeni
+- Frailia asterioides
+- Gymnocalycium cardenasianum
+- Gymnocalycium marsoneri
+- Gymnocalycium obductum P121
+- Gymnocalycium occultum P131
+- Leuchtenbergia principis
+- Mammilaria carmenae
+- Mammilaria gracilis
+- Melocactus matanzanus (10)
+- Thelocactus hexaedrophorus (10)
+- Turbinicarpus alonsoi
+- Turbinicarpus dickisoniae Aramberi
+
+###Succulents
+- Adenium obesum (5)
+- Agave victoriae-reginae
+- Agave victoriae-reginae v.compact form.El Amparo (10)
+- Drimia altissima
+- Fockea edulis (5)
 
 
 <BR>
