@@ -6,7 +6,7 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 ## Seedlist (N.B. Germination rates will vary wildly! Some seeds may not germinate at all.)
 
-###Cacti
+### Cacti:
 - Astrophytum asterias
 - Astrophytum capricorne
 - Azureocereus hertlingianus
@@ -30,7 +30,7 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - Turbinicarpus alonsoi
 - Turbinicarpus dickisoniae Aramberi
 
-###Succulents
+### Succulents:
 - Adenium obesum (5)
 - Agave victoriae-reginae
 - Agave victoriae-reginae v.compact form.El Amparo (10)
