@@ -6,6 +6,18 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 ## Seedlist (N.B. Germination rates will vary wildly! Some seeds may not germinate at all.)
 
+### Cacti - new additions:
+
+- Astrophytum senile, Viesca
+- Astrophytum crassispinum
+- Aztekium ritteri
+- Copiapoa barquitensis
+- Echinocactus horizonthalonius v. subikii
+- Echinocereus pectinatus v. rubispinus Lau 088
+- Mammillaria bosacana
+- Mammillaria theresae
+- Sulcorebutia rauschi
+
 ### Cacti (approx # of seeds):
 
 - Azureocereus hertlingianus (20)
@@ -31,6 +43,11 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - Thelocactus hexaedrophorus (10)
 - Turbinicarpus alonsoi (10)
 - Turbinicarpus dickisoniae Aramberi (30)
+
+### Succulents - New additions:
+
+- Adeium obesum
+- Adenium somalense
 
 ### Succulents:
 - Adenium obesum (3)
