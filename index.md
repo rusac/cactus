@@ -66,6 +66,8 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 ### Online web info cultivation info
 
+- [Online Guide to Identification of Members of the Cacti Family and Forums - Cactiguide.com](http://cactiguide.com/)
+
 ### Online cactus journals
 
 - [The Cactus Explorers Club Journal](http://www.cactusexplorers.org.uk/journal1.htm)
