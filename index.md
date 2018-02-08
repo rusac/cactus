@@ -11,11 +11,15 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - Astrophytum senile, Viesca
 - Astrophytum crassispinum
 - Aztekium ritteri
+- Azureocereus hertlingianus
+- Azureocereus hertlingianus v. monstruosus
+- Cereus forbesii
 - Copiapoa barquitensis
-- Echinocactus horizonthalonius v. subikii
 - Echinocereus pectinatus v. rubispinus Lau 088
 - Mammillaria bosacana
+- Mammilaria plumosa
 - Mammillaria theresae
+- Neoraimondia roseiflora
 - Sulcorebutia rauschi
 
 ### Cacti (approx # of seeds):
