@@ -4,6 +4,9 @@ The goal of Cactus Club is to cultivate cacti and succulents from seeds and cutt
 
 Current seed offerings are listed below. Members are encouraged to research the names of the cacti to determine which they would like to cultivate. Use your favourite search engine with the species' names below to find plenty of excellent information and lots of wonderful pictures.
 
+# Toronto Cactus & Succulent Club 
+- *Cactus and Succulent Show and Sale - The Toronto Cactus & Succulent Club's Annual Show & Sale is held on the first Sunday in June (Sunday June 3rd, 2018) at Allan Gardens Conservatory, in the Learning Centre greenhouses. The main entrance is on the south side of Carlton Street (east of Jarvis), across from 130 Carlton Street. The Show & Sale is open to the general public from 10:30 am. until 4:30 pm.*  **Free admission.**  Wheelchair accessible. See: http://www.torontocactus.club/showsale.htm
+
 ## Seedlist (N.B. Germination rates will vary wildly! Some seeds may not germinate at all.)
 
 ### Cacti - new additions:
