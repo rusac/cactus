@@ -8,11 +8,18 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 ### Cacti/Succulents - Newer additions - Fall 2018:
 
-- 
-
-
-
-
+- Astrophytum asterias kultur
+- Astrophytum asterias kultur v.nudum
+- Chamaecereus silvestrii Hybr ('Peanut Cactus')
+- Copiapoa ferox
+- Discocactus horstii
+- Melocactus zehnteri HU161
+- Obregonia denegrii
+- Pachycereus pringlei
+- Pereskia aculeata
+- Adenium obesum
+- Agave parryi
+- Agave victoriae-reginae v comact form, El Amparo
 
 ### Cacti - new additions:
 
