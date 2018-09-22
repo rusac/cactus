@@ -6,6 +6,14 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 ## Seedlist (N.B. Germination rates will vary wildly! Some seeds may not germinate at all.)
 
+### Cacti/Succulents - Newer additions - Fall 2018:
+
+- 
+
+
+
+
+
 ### Cacti - new additions:
 
 - Astrophytum senile, Viesca
