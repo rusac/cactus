@@ -21,59 +21,44 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - Agave parryi
 - Agave victoriae-reginae v comact form, El Amparo
 
-### Cacti - new additions:
+### Cacti:
 
 - Astrophytum senile, Viesca
 - Astrophytum crassispinum
 - Aztekium ritteri
 - Azureocereus hertlingianus
-- Azureocereus hertlingianus v. monstruosus
 - Cereus forbesii
 - Copiapoa barquitensis
+- Echinocactus horizonthalonius
 - Echinocereus pectinatus v. rubispinus Lau 088
-- Mammillaria bosacana
-- Mammilaria plumosa
-- Mammillaria theresae
-- Neoraimondia roseiflora
-- Sulcorebutia rauschi
-
-### Cacti (approx # of seeds):
-
-- Azureocereus hertlingianus (20)
-- Chamaecereus silvestrii Hybr (30)
-- Echinocactus horizonthalonius (20)
-- Espostoa churinensis (50)
-- Espostoa lanata (20)
-- Euphorbia Obesa (5)
-- Ferocactus latispinus (20)
-- Ferocactus wislizeni (60)
-- Frailia asterioides (7)
+- Espostoa churinensis
+- Espostoa lanata
+- Ferocactus latispinus
+- Ferocactus wislizeni
 - Gymnocalycium cardenasianum (30)
 - Gymnocalycium marsoneri (60)
 - Gymnocalycium obductum P121 (30)
 - Gymnocalycium occultum P131 (30)
 - Leuchtenbergia principis (30)
-- Mammilaria carmenae (30)
-- Mammilaria gracilis (9)
-- Mammilaria heyderi (20)
-- Obregonia denegrii (20)
-- Pelecyphora-Normanboku pseudopectinata Tula v.Galleana (4)
-- Pilocereus azureus (30)
-- Thelocactus hexaedrophorus (10)
-- Turbinicarpus alonsoi (10)
-- Turbinicarpus dickisoniae Aramberi (30)
+- Mammillaria bosacana
+- Mammilaria carmenae 
+- Mammilaria gracilis
+- Mammilaria heyderi 
+- Mammilaria plumosa
+- Neoraimondia roseiflora
+- Obregonia denegrii
+- Pilocereus azureus
+- Sulcorebutia rauschi
+- Turbinicarpus alonsoi
+- Turbinicarpus dickisoniae Aramberi
 
-### Succulents - New additions:
+### Succulents:
 
 - Adeium obesum
 - Adenium somalense
-
-### Succulents:
-- Adenium obesum (3)
-- Agave victoriae-reginae (10)
-- Avonia papyracea (5)
-- Drimia altissima (20)
-- Fockea edulis (10)
+- Avonia papyracea
+- Drimia altissima
+- Fockea edulis
 
 
 <BR>
