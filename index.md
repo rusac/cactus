@@ -8,16 +8,16 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 ### Seed list - Spring 2026: 
 
-Adenium obesum
-Agave parryi
-Agave victoriae-reginae
-Astrophytum asterias gonzales
-Astrophytum capricorne
-Browingia hertlingiana
-Copiapoa tenuissima
-Frailea Asteroides
-Myrtillocactus geometrizans
-Sceletium tortuosum
+- Adenium obesum
+- Agave parryi
+- Agave victoriae-reginae
+- Astrophytum asterias gonzales
+- Astrophytum capricorne
+- Browingia hertlingiana
+- Copiapoa tenuissima
+- Frailea Asteroides
+- Myrtillocactus geometrizans
+- Sceletium tortuosum
 
 
 ### Cacti/Succulents - Newer additions - Fall 2018:
