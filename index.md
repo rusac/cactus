@@ -6,6 +6,20 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 ## Seedlist (N.B. Germination rates will vary wildly! Some seeds may not germinate at all.)
 
+### Seed list - Spring 2026: 
+
+Adenium obesum
+Agave parryi
+Agave victoriae-reginae
+Astrophytum asterias gonzales
+Astrophytum capricorne
+Browingia hertlingiana
+Copiapoa tenuissima
+Frailea Asteroides
+Myrtillocactus geometrizans
+Sceletium tortuosum
+
+
 ### Cacti/Succulents - Newer additions - Fall 2018:
 
 - Astrophytum asterias kultur
