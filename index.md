@@ -58,9 +58,9 @@ Succulents:
 - Pereskia aculeata
 - Adenium obesum
 - Agave victoriae-reginae v comact form, El Amparo
-- Fockea edulis
+- Fockea edulis (poisonous)
 - Avonia papyracea
-- Drimia altissima
+- Drimia altissima (poisonous) 
 - Agave parryi
 
 
