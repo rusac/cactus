@@ -63,7 +63,10 @@ Succulents:
 - Drimia altissima (poisonous) 
 - Agave parryi
 
-
+### Other interesting plants:  
+- Euphorbia stellata
+- Dioscorea elephantipes
+- Agave shawii
 
 <BR>
 <BR>
