@@ -19,32 +19,20 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - Myrtillocactus geometrizans
 - Sceletium tortuosum
 
-
-### Cacti/Succulents - Newer additions - Fall 2018:
-
-- Astrophytum asterias kultur
-- Astrophytum asterias kultur v.nudum
-- Chamaecereus silvestrii Hybr ('Peanut Cactus')
-- Copiapoa ferox
-- Discocactus horstii
-- Melocactus zehnteri HU161
-- Obregonia denegrii
-- Pachycereus pringlei
-- Pereskia aculeata
-- Adenium obesum
-- Agave parryi
-- Agave victoriae-reginae v comact form, El Amparo
-
-### Cacti:
-
-- Astrophytum senile, Viesca
+### Old (Fall 2018)
 - Astrophytum crassispinum
-- Aztekium ritteri
+- Astrophytum asterias kultur
+- Astrophytum senile Viesca
+- Astrophytum asterias kultur v.nudum
+- Azterkium ritteri
 - Azureocereus hertlingianus
+- Chamaecereus silvestrii Hybr ('Peanut Cactus')
 - Cereus forbesii
-- Copiapoa barquitensis
-- Echinocactus horizonthalonius
-- Echinocereus pectinatus v. rubispinus Lau 088
+- Copiapoa barquitensis FR65410K
+- Copiapoa ferox
+- Discocactus horstii (2)
+- Echinocereus pectinatus SLP v rubispinus Lau 088
+- Echinocactus horizontalonius
 - Espostoa churinensis
 - Espostoa lanata
 - Ferocactus latispinus
@@ -53,26 +41,28 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - Gymnocalycium marsoneri (60)
 - Gymnocalycium obductum P121 (30)
 - Gymnocalycium occultum P131 (30)
-- Leuchtenbergia principis (30)
+- Leuchtenbergia principis
 - Mammillaria bosacana
 - Mammilaria carmenae 
-- Mammilaria gracilis
+- Mammilaria gracilis v pulchella
 - Mammilaria heyderi 
 - Mammilaria plumosa
+- Melocactus zehnteri HU161
 - Neoraimondia roseiflora
 - Obregonia denegrii
+- Pachycereus pringlei
 - Pilocereus azureus
 - Sulcorebutia rauschi
-- Turbinicarpus alonsoi
 - Turbinicarpus dickisoniae Aramberi
-
-### Succulents:
-
-- Adeium obesum
-- Adenium somalense
+Succulents:  
+- Pereskia aculeata
+- Adenium obesum
+- Agave victoriae-reginae v comact form, El Amparo
+- Fockea edulis
 - Avonia papyracea
 - Drimia altissima
-- Fockea edulis
+- Agave parryi
+
 
 
 <BR>
