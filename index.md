@@ -8,9 +8,9 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 ### Seed list - Spring 2026: 
 
-- Adenium obesum [1](#3)
-- Agave parryi
-- Agave victoriae-reginae
+- Adenium obesum [3](#3)
+- Agave parryi [2](#2)
+- Agave victoriae-reginae [2](#2)
 - Astrophytum asterias gonzales
 - Astrophytum capricorne
 - Browingia hertlingiana
@@ -56,17 +56,17 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - Turbinicarpus dickisoniae Aramberi
 Succulents:  
 - Pereskia aculeata
-- Adenium obesum
-- Agave victoriae-reginae v comact form, El Amparo
+- Adenium obesum [3](#3)
+- Agave victoriae-reginae v comact form, El Amparo [2](#2)
 - Fockea edulis (poisonous)
 - Avonia papyracea
-- Drimia altissima (poisonous) [1](#3)
-- Agave parryi
+- Drimia altissima (poisonous) [3](#3)
+- Agave parryi [2](#2)
 
 ### Other interesting plants:  
 - Euphorbia stellata
 - Dioscorea elephantipes
-- Agave shawii
+- Agave shawii [2](#2)
 
 <BR>
 <BR>
@@ -77,6 +77,7 @@ Succulents:
 ### 1
 
 ### 2
+- well-draining rocky soil
 
 ### 3 
 - well-draining soil
