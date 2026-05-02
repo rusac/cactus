@@ -8,7 +8,7 @@ Current seed offerings are listed below. Members are encouraged to research the 
 
 ### Seed list - Spring 2026: 
 
-- Adenium obesum
+- Adenium obesum [1](#3)
 - Agave parryi
 - Agave victoriae-reginae
 - Astrophytum asterias gonzales
@@ -79,7 +79,7 @@ Succulents:
 ### 2
 
 ### 3 
-- use equal parts of well decomposed compost or finely milled bark, and river or silica sand.
+- well-draining soil
 
 ### 4
 
