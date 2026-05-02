@@ -60,7 +60,7 @@ Succulents:
 - Agave victoriae-reginae v comact form, El Amparo
 - Fockea edulis (poisonous)
 - Avonia papyracea
-- Drimia altissima (poisonous) 
+- Drimia altissima (poisonous) [1](#1)
 - Agave parryi
 
 ### Other interesting plants:  
@@ -71,6 +71,17 @@ Succulents:
 <BR>
 <BR>
 <BR>
+
+## Substrates:
+
+### 1
+
+### 2
+
+### 3 
+- use equal parts of well decomposed compost or finely milled bark, and river or silica sand.
+
+### 4
 
 
 # Other Resources
