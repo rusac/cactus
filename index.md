@@ -13,10 +13,10 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - Agave victoriae-reginae [2](#2)
 - Astrophytum asterias gonzales [3](#3)
 - Astrophytum capricorne [3](#3)
-- Browingia hertlingiana
-- Copiapoa tenuissima
-- Frailea Asteroides
-- Myrtillocactus geometrizans
+- Browingia hertlingiana [3](#3)
+- Copiapoa tenuissima [2](#2)
+- Frailea Asteroides [3](#3)
+- Myrtillocactus geometrizans [3](#3)
 - Sceletium tortuosum
 
 ### Old (Fall 2018)
@@ -24,12 +24,12 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - Astrophytum asterias kultur [3](#3)
 - Astrophytum senile Viesca [3](#3)
 - Astrophytum asterias kultur v.nudum [3](#3)
-- Azterkium ritteri
-- Azureocereus hertlingianus
+- Aztekium ritteri
+- Azureocereus hertlingianus [3](#3)
 - Chamaecereus silvestrii Hybr ('Peanut Cactus')
 - Cereus forbesii
-- Copiapoa barquitensis FR65410K
-- Copiapoa ferox
+- Copiapoa barquitensis FR65410K [2](#2)
+- Copiapoa ferox [2](#2)
 - Discocactus horstii (2)
 - Echinocereus pectinatus SLP v rubispinus Lau 088
 - Echinocactus horizontalonius
