@@ -17,49 +17,49 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - Copiapoa tenuissima [2](#2)
 - Frailea Asteroides [3](#3)
 - Myrtillocactus geometrizans [3](#3)
-- Sceletium tortuosum
+- Sceletium tortuosum [3](#3)
 
 ### Old (Fall 2018)
 - Astrophytum crassispinum [3](#3)
 - Astrophytum asterias kultur [3](#3)
 - Astrophytum senile Viesca [3](#3)
 - Astrophytum asterias kultur v.nudum [3](#3)
-- Aztekium ritteri
+- Aztekium ritteri [2](#2)
 - Azureocereus hertlingianus [3](#3)
-- Chamaecereus silvestrii Hybr ('Peanut Cactus')
-- Cereus forbesii
+- Chamaecereus silvestrii Hybr ('Peanut Cactus') [3](#3)
+- Cereus forbesii [3](#3)
 - Copiapoa barquitensis FR65410K [2](#2)
 - Copiapoa ferox [2](#2)
-- Discocactus horstii (2)
-- Echinocereus pectinatus SLP v rubispinus Lau 088
-- Echinocactus horizontalonius
-- Espostoa churinensis
-- Espostoa lanata
-- Ferocactus latispinus
-- Ferocactus wislizeni
-- Gymnocalycium cardenasianum (30)
-- Gymnocalycium marsoneri (60)
-- Gymnocalycium obductum P121 (30)
-- Gymnocalycium occultum P131 (30)
-- Leuchtenbergia principis
-- Mammillaria bosacana
-- Mammilaria carmenae 
-- Mammilaria gracilis v pulchella
-- Mammilaria heyderi 
-- Mammilaria plumosa
-- Melocactus zehnteri HU161
-- Neoraimondia roseiflora
-- Obregonia denegrii
-- Pachycereus pringlei
-- Pilocereus azureus
-- Sulcorebutia rauschi
-- Turbinicarpus dickisoniae Aramberi
+- Discocactus horstii [2](#2)
+- Echinocereus pectinatus SLP v rubispinus Lau 088 [3](#3)
+- Echinocactus horizontalonius [3](#3)
+- Espostoa churinensis [3](#3)
+- Espostoa lanata [3](#3)
+- Ferocactus latispinus [3](#3)
+- Ferocactus wislizeni [3](#3)
+- Gymnocalycium cardenasianum [3](#3)
+- Gymnocalycium marsoneri [3](#3)
+- Gymnocalycium obductum P121 [3](#3)
+- Gymnocalycium occultum P131 [3](#3)
+- Leuchtenbergia principis [3](#3)
+- Mammillaria bosacana [2](#2)
+- Mammilaria carmenae [2](#2)
+- Mammilaria gracilis v pulchella [2](#2)
+- Mammilaria heyderi [2](#2)
+- Mammilaria plumosa [2](#2)
+- Melocactus zehnteri HU161 [3](#3)
+- Neoraimondia roseiflora [3](#3)
+- Obregonia denegrii [2](#2)
+- Pachycereus pringlei [3](#3)
+- Pilocereus azureus [3](#3)
+- Sulcorebutia rauschi [3](#3)
+- Turbinicarpus dickisoniae Aramberi [3](#3)
 Succulents:  
-- Pereskia aculeata
+- Pereskia aculeata [3](#3)
 - Adenium obesum [3](#3)
 - Agave victoriae-reginae v comact form, El Amparo [2](#2)
-- Fockea edulis (poisonous)
-- Avonia papyracea
+- Fockea edulis (poisonous) [3](#3)
+- Avonia papyracea[3](#3)
 - Drimia altissima (poisonous) [3](#3)
 - Agave parryi [2](#2)
 
