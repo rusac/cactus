@@ -11,8 +11,8 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - Adenium obesum [3](#3)
 - Agave parryi [2](#2)
 - Agave victoriae-reginae [2](#2)
-- Astrophytum asterias gonzales
-- Astrophytum capricorne
+- Astrophytum asterias gonzales [3](#3)
+- Astrophytum capricorne [3](#3)
 - Browingia hertlingiana
 - Copiapoa tenuissima
 - Frailea Asteroides
@@ -20,10 +20,10 @@ Current seed offerings are listed below. Members are encouraged to research the 
 - Sceletium tortuosum
 
 ### Old (Fall 2018)
-- Astrophytum crassispinum
-- Astrophytum asterias kultur
-- Astrophytum senile Viesca
-- Astrophytum asterias kultur v.nudum
+- Astrophytum crassispinum [3](#3)
+- Astrophytum asterias kultur [3](#3)
+- Astrophytum senile Viesca [3](#3)
+- Astrophytum asterias kultur v.nudum [3](#3)
 - Azterkium ritteri
 - Azureocereus hertlingianus
 - Chamaecereus silvestrii Hybr ('Peanut Cactus')
