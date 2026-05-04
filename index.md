@@ -95,6 +95,7 @@ Succulents:
 
 - [The Cactus Explorers Club Journal](http://www.cactusexplorers.org.uk/journal1.htm)
 - [ The Chileans: The Journal of South American Cacti](http://www.cactusexplorers.org.uk/Chileans_home.htm)
+- [British Cactus and Succulent Society](https://bcss.org.uk/)
 
 
 ### CITES and Eco-stewardship
