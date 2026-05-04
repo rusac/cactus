@@ -90,7 +90,7 @@ Succulents:
 ### Online web info cultivation info
 
 - [Online Guide to Identification of Members of the Cacti Family and Forums - Cactiguide.com](http://cactiguide.com/)
-- [National Gardening Association](https://garden.org/forums/view/cacti/)
+- [National Gardening Association Cactus and Succulent forum](https://garden.org/forums/view/cacti/)
 
 ### Online cactus journals
 
